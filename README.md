@@ -13,14 +13,14 @@ The following **required** functionality is complete:
 
 The following **optional** features are implemented:
 * [ ] Settings page to change the default tip percentage.
-* [/] UI animations
+* UI animations
 * [ ] Remembering the bill amount across app restarts (if <10mins)
 * [ ] Using locale-specific currency and currency thousands separators.
-* [/] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
+* Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
 The following **additional** features are implemented:
 
-* [/] Include the number of people who share the bill and calculate the amount that each person has to pay
+* Include the number of people who share the bill and calculate the amount that each person has to pay
 
 ## Video Walkthrough 
 
@@ -31,6 +31,8 @@ Here's a walkthrough of implemented user stories:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
+
+I do not own a MacBook so I had to borrow a friend's in order to complete this task. This explains why there are some commits which has her name (Nur Syahirah Mohamad Shaipudin) on it.
 
 Initially had trouble with adding the settings page. Adding a navigation controller has caused the initial view to become black, with only the navigation bar visible. I tried to look for solutions online and implement them in my code but to no avail. Realizing that I only have 2 days left, I decided to restart the app from scratch. The second time around was better because I already know my way around Xcode and do not have to consult the walkthrough video every time. I was able to develop a more organized look to my app and keep track of features that I implemented in a more systematic way. I run the app each time I changed something so that whenever I get a compile or runtime error I can trace the error easier. The second time around, I decided not to implement the setings page and experiment with other features such as animations.
 
