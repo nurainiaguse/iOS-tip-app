@@ -2,7 +2,7 @@
 //  testUITests.swift
 //  testUITests
 //
-//  Created by Nur Syahirah Mohamad Shaipudin on 12/30/15.
+//  Created by Nuraini Aguse on 12/30/15.
 //  Copyright © 2015 codepath. All rights reserved.
 //
 
